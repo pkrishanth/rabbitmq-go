@@ -1,4 +1,3 @@
-W
 FROM golang:latest
 
 RUN mkdir /app
